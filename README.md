@@ -40,5 +40,5 @@ My journey of learning Java and software engineering.
 
 | Week 2 | Java basics | Not Started |
 
-
+I am practicing Git commands every day.
 
